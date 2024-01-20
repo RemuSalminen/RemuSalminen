@@ -16,7 +16,7 @@ Currently interested in:
 | Language | Level Of Experience |
 |:--------:|:-------------------:|
 |C++|≈4 months|
-|JavaScript|≈1,5 years during which I made a Discord bot for around 200 users|
+|JavaScript|≈1 years during which I made a Discord bot for around 100 users|
 |Python|2 introductory courses during one I assisted the teacher|
 
 <!--
